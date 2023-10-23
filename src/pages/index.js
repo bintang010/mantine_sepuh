@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <>
       <Text>natan</Text>
-      <Button>eek</Button>
+      <Button>button</Button>
     </>
   );
 }
